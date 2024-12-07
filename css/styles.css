@@ -384,9 +384,9 @@ li {
 .svg-teamlist{
     fill: #f4f4fd;
 }
-.p-section:hover{
-    transform: translateY(0%);
-}
+ .li-four:hover .text-app {
+     transform: translateY(0%);
+ }
 .p-section{
         position: absolute;
         top: 0;
