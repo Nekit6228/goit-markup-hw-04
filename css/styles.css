@@ -71,7 +71,6 @@ li {
 .ul-logo {
     display: flex;
     gap: 40px;
-    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .logo-list {
@@ -98,6 +97,7 @@ li {
         display: flex;
         gap: 40px;
         padding: 24px 0;
+        transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .fotoli {
     background-color: #FFFFFF;
