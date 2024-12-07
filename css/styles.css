@@ -339,3 +339,12 @@ li {
 .header-container{
     display: flex;
 }
+.div-lilili{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 122px;
+    background-color: #f4f4fd;
+    border-radius: 1px solid #8e8f99;
+    margin-bottom: 8px;
+}
