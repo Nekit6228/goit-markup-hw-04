@@ -417,3 +417,7 @@ li {
     color: #ffffff;
     margin-bottom: 16px;
 }
+.ul-footer{
+    display: flex;
+    gap: 16px;
+}
