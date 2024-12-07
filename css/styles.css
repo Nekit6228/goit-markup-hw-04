@@ -61,7 +61,6 @@ li {
 .ul-logo {
     display: flex;
     gap: 40px;
-    position: relative;
 }
 
 .logo-list {
@@ -72,6 +71,7 @@ li {
     color: #2e2f42;
     padding: 24px 0;
     display: block;
+    position: relative;
 }
 
 .address-logo {
