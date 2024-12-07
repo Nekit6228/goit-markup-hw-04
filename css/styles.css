@@ -384,8 +384,10 @@ li {
 .svg-teamlist{
     fill: #f4f4fd;
 }
+.p-section:hover{
+    transform: translateY(0%);
+}
 .p-section{
-        transform: translateY(0%);
         position: absolute;
         top: 0;
         font-size: 16px;
