@@ -185,7 +185,6 @@ li {
 }
 .li-four:hover{
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
-    transform: translateY(0%);
 }
 .hello-text {
     font-weight: 500;
@@ -267,6 +266,9 @@ li {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+.text-app:hover{
+    transform: translateY(0%);
 }
 
 
