@@ -41,7 +41,6 @@ li {
     display: flex;
     align-items: center;
     margin: 0px 329px 0px 0px ;
-    position: relative;
 }
 
 .web-logo {
@@ -62,6 +61,7 @@ li {
 .ul-logo {
     display: flex;
     gap: 40px;
+    position: relative;
 }
 
 .logo-list {
