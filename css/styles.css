@@ -351,3 +351,28 @@ li {
     border: 1px solid #8e8f99;
     margin-bottom: 8px;
 }
+.ul-teamlist{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+.li-teamlisturl{
+    width: 40px;
+    height: 40px;
+}
+.a-teamlist{
+    width: 100%;
+    height: 100%;
+    background-color: #4d5ae5;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.a-teamlist:hover,
+.a-teamlist:focus{
+    background-color: #404bbf;
+}
+.svg-teamlist{
+    fill: #f4f4fd;
+}
