@@ -217,7 +217,7 @@ li {
     margin-bottom: 72px;
 }
 
-.teamlist {
+.list-czeloveki {
     display: flex;
     gap: 24px;
 }
@@ -406,7 +406,7 @@ li {
     display: flex;
     align-items: baseline;
 }
-.div-foot{
+.div-footing{
     margin-right: 120px;
 }
 .p-footer{
