@@ -360,9 +360,6 @@ li {
 }
 
 .div-math {
-    border: 1px solid #e7e9fc;
-    border-top: none;
-    margin-bottom: 8px;
     position: relative;
     overflow: hidden;
 }
@@ -448,6 +445,7 @@ li {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #ffffff;
+    margin-top: 0;
     margin-bottom: 16px;
 }
 
