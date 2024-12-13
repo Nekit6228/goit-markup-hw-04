@@ -69,8 +69,8 @@ li {
     gap: 40px;
 }
 .list-studio{
+    color: #404bbf;
     position: relative;
-        color: #404bbf;
 }
 .logo-list {
     font-weight: 500;
